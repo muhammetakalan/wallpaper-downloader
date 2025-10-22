@@ -1,0 +1,11 @@
+{
+  "name": "wallpaper-downloader",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "muninn": "^1.0.0"
+  }
+}
